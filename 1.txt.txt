@@ -1,5 +1,4 @@
 This Is Ojas 
 I am from Pune
-I like programming...
 Python is one of my favourate programming languages
 It is fun to create projects in python
